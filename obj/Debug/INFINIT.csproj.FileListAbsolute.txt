@@ -1,0 +1,7 @@
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\bin\Debug\INFINIT.exe.config
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\bin\Debug\INFINIT.exe
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\bin\Debug\INFINIT.pdb
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\obj\Debug\INFINIT.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\obj\Debug\INFINIT.exe
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\obj\Debug\INFINIT.pdb
+C:\Users\comp\Desktop\ილია\TSU III semester\c#\დავალებები\INFINIT\obj\Debug\INFINIT.csprojAssemblyReference.cache
