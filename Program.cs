@@ -12,7 +12,7 @@ namespace INFINIT
         public static void calculation()
         {
             //გახსნის ფაილს სადაც გვაქვს მონაცემები და შესაბამისი ოპერაციები
-            string path = "C:/Users/comp/Desktop/ილია/TSU III semester/c#/დავალებები/INFINIT/TextFile1.txt";
+            string path = "../INFINIT/TextFile1.txt";
             var fs = new FileStream(path, FileMode.Open, FileAccess.Read);
             var sr = new StreamReader(fs, Encoding.UTF8);
 
